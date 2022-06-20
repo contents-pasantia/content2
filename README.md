@@ -1,3 +1,6 @@
+# pensamiento logico y algoritmos
+![img](https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 # Pensamiento Logico.
 - Enlace de presentacion. [enalce](./slides/PensamientoLogico.html)
 ## Actividades 
@@ -15,10 +18,6 @@
 
 
 ## Actividades
-1. Conocer el funcionamiento basico la terminal.
-2. Creacion de un Script Basico
-3. Mi primer script. [enalce](./Resource/MyfirstScript.md)
+1. Fundamentos esenciales de programacion y logica.
+2. Actividad de logica [enlace](./Resources/Actividad1.md)
 
-
-Recursos:
-1. Actividad de logica [enlace](./Resources/Actividad1.md)# content2
